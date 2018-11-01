@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Oversikt IT1 </title>
+	<title>Oversikt IT1</title>
 	<!-- UTF-8 gjør at vi kan bruke æ, ø og å  -->
 	<meta charset="UTF-8">
 	
